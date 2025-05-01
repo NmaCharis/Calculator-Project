@@ -1,1 +1,4 @@
-# Calculator-Project
+I created a basic Calculator with Python installed in my system. It will be used to conduct fundamental arithmetic operations through functions, enabling me to provide two numbers and select my desired calculation type. 
+It supports the following operations: Addition (add) Subtraction (subtract) Multiplication (multiply) Division (divide) Floor Division (floordivision) Exponentiation (exponent) Modulus (modulus) Manages division by zero errors. Accepts numeric input such as floats and the operation are not case sensitive. 
+Here, I typed in two numbers and chose the operations I want to carry out (e.g., add, modulus). The result will show, if not error message will show if the numbers are not correct or there’s an error.                                  
+Available operations: add, subtract, multiply, divide, floordivision, exponent, modulus Enter first number: 10 Enter second number: 2 Enter the operation: divide RESULT: 5.0. This is Ideal for Beginners who are learning the fundamentals of Python Practicing functions, input/output, and conditional statements Improving Python applications
